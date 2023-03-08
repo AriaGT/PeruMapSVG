@@ -3,7 +3,7 @@ import { MAP_COLORS } from "../constants/colors"
 export const REGION_COLORS = {
   AMAZONAS:  MAP_COLORS.blue,
   ANCASH:  MAP_COLORS.magenta,
-  APURIMAC:  MAP_COLORS.brown,
+  APURIMAC:  MAP_COLORS.yellow,
   AREQUIPA:  MAP_COLORS.purple,
   AYACUCHO:  MAP_COLORS.brown,
   CAJAMARCA:  MAP_COLORS.purple,
