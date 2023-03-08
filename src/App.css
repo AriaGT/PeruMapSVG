@@ -27,6 +27,8 @@
   backdrop-filter: blur(10px); /* difuminado del fondo */
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  text-align: center;
   gap: 10px;
   height: 90vh;
   width: 25%;
