@@ -1,0 +1,11 @@
+.path {
+  transition: filter 0.4s;
+}
+
+.path:hover {
+  filter: brightness(.6);
+}
+
+.path:active {
+  transition: filter 0.2s;
+}
